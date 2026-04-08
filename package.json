@@ -11,8 +11,8 @@
   "author": "𝑩𝒐𝒕",
   "license": "MIT",
   "dependencies": {
-    "whatsappy": "https://github.com/deveni0/ws/tarball/main",
-    "sharp": "https://github.com/deveni0/sharp-tmx/tarball/main",
+    "whatsappy": "https://github.com/mohamedabdelake/ws/tarball/main",
+    "sharp": "https://github.com/mohamedabdelake/sharp-tmx/tarball/main",
     "cheerio": "1.0.0-rc.12",
     "chokidar": "^5.0.0",
     "file-type": "^18.0.0",
@@ -21,9 +21,9 @@
     "wa-sticker-formatter": "^4.3.2"
   },
   "overrides": {
-    "sharp": "https://github.com/deveni0/sharp-tmx/tarball/main",
+    "sharp": "https://github.com/mohamedabdelake/sharp-tmx/tarball/main",
     "*": {
-      "sharp": "https://github.com/deveni0/sharp-tmx/tarball/main"
+      "sharp": "https://github.com/mohamedabdelake/sharp-tmx/tarball/main"
     }
   }
 }
