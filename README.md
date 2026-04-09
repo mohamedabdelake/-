@@ -28,7 +28,6 @@
 
 ### Termux (أندرويد)
 ```bash
-```bash
 termux-setup-storage
 ```
 ```bash
@@ -41,7 +40,7 @@ pkg install git nodejs -y
 git clone https://github.com/mohamedabdelake/-.git
 ```
 ```bash
-cd -
+cd ./-
 ```
 ```bash
 npm install
