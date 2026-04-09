@@ -1,4 +1,4 @@
-# ✨ 𝑩𝒐𝒕 – بوت واتساب المتطور
+# ✨ 𝑩𝒐𝒕 – بوت واتساب متطور
 
 <div align="center">
 <img src="https://i.ibb.co/DPd7L6nC/file-0000000062d071f58c72943281b9d346.png" alt="Bot Logo" width="500"/>
