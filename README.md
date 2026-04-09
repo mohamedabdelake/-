@@ -13,7 +13,6 @@
 </div>
 
 ---
-
 # 🌹 المميزات
 - ✅ بوت سهل الاستخدام
 - ✅ صيانة مستمرة
@@ -29,12 +28,25 @@
 
 ### Termux (أندرويد)
 ```bash
+```bash
 termux-setup-storage
+```
+```bash
 pkg update -y && pkg upgrade -y
+```
+```bash
 pkg install git nodejs -y
-git clone [https://github.com/mohamedabdelake/-.git](https://github.com/mohamedabdelake/-.git)
+```
+```bash
+git clone https://github.com/mohamedabdelake/-.git
+```
+```bash
 cd -
+```
+```bash
 npm install
+```
+```bash
 npm start
 ```
 
