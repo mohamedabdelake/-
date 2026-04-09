@@ -1,7 +1,7 @@
 # ✨ 𝑩𝒐𝒕 – بوت واتساب المتطور
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/81/89/fd/8189fd909bbae4ba4e8f1d940f500a60.jpg" alt="Bot Logo" width="500"/>
+<img src="https://i.ibb.co/DPd7L6nC/file-0000000062d071f58c72943281b9d346.png" alt="Bot Logo" width="500"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/mohamedabdelake/-/blob/main/README.md)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Developer-green?style=for-the-badge&logo=whatsapp)](https://wa.me/212721709540)
